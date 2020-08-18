@@ -1,2 +1,0 @@
-# SandyRepo
-My First Repository
